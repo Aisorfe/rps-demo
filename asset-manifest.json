@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rps-demo/static/css/main.018e352d.chunk.css",
+    "main.js": "/rps-demo/static/js/main.2688e499.chunk.js",
+    "main.js.map": "/rps-demo/static/js/main.2688e499.chunk.js.map",
+    "runtime-main.js": "/rps-demo/static/js/runtime-main.a1500b1f.js",
+    "runtime-main.js.map": "/rps-demo/static/js/runtime-main.a1500b1f.js.map",
+    "static/js/2.75d76f59.chunk.js": "/rps-demo/static/js/2.75d76f59.chunk.js",
+    "static/js/2.75d76f59.chunk.js.map": "/rps-demo/static/js/2.75d76f59.chunk.js.map",
+    "index.html": "/rps-demo/index.html",
+    "precache-manifest.b05b8027e8c09fd01220c7933c5790c0.js": "/rps-demo/precache-manifest.b05b8027e8c09fd01220c7933c5790c0.js",
+    "service-worker.js": "/rps-demo/service-worker.js",
+    "static/css/main.018e352d.chunk.css.map": "/rps-demo/static/css/main.018e352d.chunk.css.map",
+    "static/js/2.75d76f59.chunk.js.LICENSE.txt": "/rps-demo/static/js/2.75d76f59.chunk.js.LICENSE.txt",
+    "static/media/ChooseMenu.module.css": "/rps-demo/static/media/bg-triangle.1fd44bdf.svg",
+    "static/media/icon-paper.svg": "/rps-demo/static/media/icon-paper.69a8c2e9.svg",
+    "static/media/icon-rock.svg": "/rps-demo/static/media/icon-rock.8ce1e109.svg",
+    "static/media/icon-scissors.svg": "/rps-demo/static/media/icon-scissors.bec2f9b3.svg",
+    "static/media/Header.module.css": "/rps-demo/static/media/logo.759a2075.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1500b1f.js",
+    "static/js/2.75d76f59.chunk.js",
+    "static/css/main.018e352d.chunk.css",
+    "static/js/main.2688e499.chunk.js"
+  ]
+}

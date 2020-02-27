@@ -1,0 +1,23 @@
+.score {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 110px;
+	width: 150px;
+	background: white;
+	border-radius: 8px;
+}
+
+.label {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #3C4BA5;
+	font-weight: bold;
+}
+
+.value {
+	color: #595666;
+	font-size: 52px;
+	font-weight: bold;
+}

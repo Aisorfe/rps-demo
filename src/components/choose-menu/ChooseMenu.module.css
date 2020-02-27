@@ -1,0 +1,32 @@
+.menu {
+	width: 500px;
+	height: 440px;
+	background-image: url(../../assets/bg-triangle.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 300px auto;
+
+	transform-origin: 50% 40%;
+	animation-name: menu;
+	animation-duration: 1s;
+}
+
+@keyframes menu {
+	from {
+		transform: rotate(0) scale(.4);
+	}
+	to {
+		transform: rotate(360deg) scale(1);
+	}
+}
+
+.topRow {
+	display: flex;
+	justify-content: space-between;
+}
+
+.bottomRow {
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+}
